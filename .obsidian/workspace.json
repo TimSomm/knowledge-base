@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d57049db0e00d9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "automation/ansible.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "automation/ansible.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "automation/ansible.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2867dc3368cf1e9",
+  "active": "d57049db0e00d9da",
   "lastOpenFiles": [
-    "networking/networking.md",
     "automation/ansible.md",
+    "README.md",
+    "Untitled",
+    "networking/networking.md",
     "git/git.md",
     "networking",
     "docker/docker.md",
@@ -173,7 +188,6 @@
     "docker/docker-compose.md",
     "frameworks/moleculer.md",
     "git",
-    "Untitled.md",
     "ssh",
     "automation",
     "editor",
@@ -182,7 +196,6 @@
     "docker",
     "boilerplates",
     "frameworks/Untitled.canvas",
-    "moleculer/Untitled.md",
-    "frameworks"
+    "moleculer/Untitled.md"
   ]
 }
