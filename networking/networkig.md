@@ -7,6 +7,20 @@
 # Open default netplan config file
 sudo nano /etc/netplan/01-network-manager-all.yaml
 
+# Figure out network details
+ip route
+
+# Example output
+# There might be other lines only the ones with the same interface as default matters
+default via 192.168.1.254 dev wlp4s0 proto dhcp src 192.168.1.70 metric 100
+169.254.0.0/16 dev wlp4s0 scope link metric 1000
+192.168.1.0/24 dev wlp4s0 proto kernel scope link src 192.168.1.70 metric 100
+
+# Extract data from example output
+Interface (Wifi or Ethernet): wlp4s0
+Default Gateway: 192.168.1.254
+
+
 # Add these lines (WiFi)
 wifis:
 	<wifi-interface>:
