@@ -19,7 +19,8 @@ default via 192.168.1.254 dev wlp4s0 proto dhcp src 192.168.1.70 metric 100
 # Extract data from example output
 Interface (Wifi or Ethernet): wlp4s0
 Default Gateway: 192.168.1.254
-
+Network Mask: /24 or 255.255.255.0
+Ip range: 192.168.1.0 - 192.168.1.254 (Static ip can take these values)
 
 # Add these lines (WiFi)
 wifis:
