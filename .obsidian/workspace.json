@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "68fc240f8c534e87",
+    "id": "062af188ed79a193",
     "type": "split",
     "children": [
       {
-        "id": "2b500e3fd3b62e7d",
+        "id": "f5a979bb5590856a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2867dc3368cf1e9",
+            "id": "b813cb92fcb08c9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "networking/networking.md",
+                "file": "automation/ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd5da667e745450f",
+    "id": "9dc53f11c11a41a8",
     "type": "split",
     "children": [
       {
-        "id": "39c2bcc49a815c30",
+        "id": "168789dee0224ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "6c74ef973cd488de",
+            "id": "0881e8fe169afdc3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "a08af20c32ac790b",
+            "id": "1f9efe0841b382ea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "4811e758266da0b0",
+            "id": "f21eb73c29c7f86b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "94e2c6adf409fd76",
+    "id": "4d4e7fbee3ceaee5",
     "type": "split",
     "children": [
       {
-        "id": "620708ecd0dc6acb",
+        "id": "7b1c1e7aa8f29736",
         "type": "tabs",
         "children": [
           {
-            "id": "23903074cb589dd0",
+            "id": "d079eb7beebcd85b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "networking/networking.md",
+                "file": "automation/ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "d1307a67f063f7bf",
+            "id": "c40afe738d598b4f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "networking/networking.md",
+                "file": "automation/ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9516f2e5f2a38ecd",
+            "id": "54b6b9478fe2427b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,24 +120,12 @@
             }
           },
           {
-            "id": "c8b6409719947868",
+            "id": "49918cb7c6adb441",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "networking/networking.md"
-              }
-            }
-          },
-          {
-            "id": "20ea13297cd7dab2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "automation/ansible.md"
               }
             }
           }
@@ -158,30 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2867dc3368cf1e9",
+  "active": "b813cb92fcb08c9b",
   "lastOpenFiles": [
-    "git/git.md",
-    "networking/networking.md",
-    "networking",
-    "docker/docker.md",
-    "editor/vim.md",
     "misc/markdown.md",
-    "misc/terminal.md",
-    "obsidian/mac-keyboard-shortcuts.md",
-    "automation/salt.md",
-    "docker/docker-compose.md",
-    "frameworks/moleculer.md",
-    "git",
-    "Untitled.md",
-    "ssh",
-    "automation",
-    "editor",
-    "git",
-    "docker",
-    "docker",
-    "boilerplates",
-    "frameworks/Untitled.canvas",
-    "moleculer/Untitled.md",
-    "frameworks"
+    "automation/ansible.md",
+    "networking/networking.md",
+    "networking/networkig.md",
+    "git/git.md",
+    "networking",
+    "linux"
   ]
 }
