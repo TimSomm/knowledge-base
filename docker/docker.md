@@ -1,4 +1,7 @@
 # Docker
+
+Docker is a containerization platform for building, deploying, and managing applications in isolated environments.
+
 ---
 
 ## Useful commands
