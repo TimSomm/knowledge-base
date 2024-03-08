@@ -1,5 +1,4 @@
 # Knowledge base
----
 
 *It is a living repository, which is always updated. I am constantly adding information as I come across it. Not everything is included, there may be errors and omissions, I collect the information that is useful for me here.*
 
