@@ -45,8 +45,8 @@ ansible-vault view --vault-password-file=<password_file> <file_path>
 ## Other Useful Commands
 
 ```bash
-# Check connectivity to hosts
-ansible all -m ping
+# Check connectivity to hosts (username is required for ssh almost always)
+ansible all -i <path_to_inventory> -u <username> -m ping
 
 # Copy files to remote hosts
 ansible all -m copy -a "src=file.txt dest=/path/to/destination/"
