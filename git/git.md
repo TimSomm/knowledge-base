@@ -109,4 +109,10 @@ git tag -a <tag_name> -m "Tag message" <commit_hash>
 
 # List all tags
 git tag
+
+# Check config list
+git config --list
+
+# Check specific config
+git config <config_name>
 ```
