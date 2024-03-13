@@ -1,4 +1,4 @@
-# Git
+# Git-CLI commands
 
 Git is a distributed version control system that enables collaborative software development by tracking changes to source code, facilitating team coordination, and preserving project history.
 
@@ -51,7 +51,7 @@ git branch -D <branch_name>
 # Check remote origin
 git remote -v
 
-# Change remote origin
+# Change remote url (works with changing from http to ssh)
 git remote set-url <remote_name> <remote_url>
 
 # Add remote origin
